@@ -91,8 +91,6 @@ python src/evaluate.py path/to/folder [threshold]
 
 ---
 
-## License
-
 PLP License © 2025 Pauline Onyango
 
 ---
